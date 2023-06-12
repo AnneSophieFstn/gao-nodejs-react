@@ -38,9 +38,11 @@ Renommer le fichier .env.example en .env et renseigner les différentes informat
 
 2. Lancer le projet
    `npm start`
-   
+
 ## Exécuter le projet (coté client)
-- A suivre...
+
+$ cd ./client/
+$ npm run start
 
 ## Test
 
